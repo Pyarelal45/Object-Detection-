@@ -58,9 +58,14 @@ YOLOv4 algorithm performed quite well on the given dataset.
 
 
 Testing the custom Algorithm on validation images:
+
+
 ![image](https://user-images.githubusercontent.com/75324891/150962260-b396cb29-9ac2-423b-89c8-37fbfbd25edd.png)
-![image](https://user-images.githubusercontent.com/75324891/150962339-456fcc89-b447-480e-9243-109927f3ed72.png)
+
+
 ![image](https://user-images.githubusercontent.com/75324891/150962412-dae4b2cd-0aa5-4f6e-9413-86685c3e286b.png)
+
+
 ![image](https://user-images.githubusercontent.com/75324891/150962459-78052e51-975f-43d9-b8b3-ff5dc3841a72.png)
 
 
