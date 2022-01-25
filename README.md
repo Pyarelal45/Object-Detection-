@@ -37,14 +37,14 @@ detections_count = 33774, unique_truth_count = 5313
 
 
 Class_id	Class_name	Class_accuracy (%)	TP	FP
-0	Auto	71.54	132	92
-1	Bus	77.69	208	89
-2	Car	88.54	2116	811
-3	Lcv	33.78	130	384
-4	Motorcycle	73.48	1220	764
-5	Multiaxle	45.56	107	102
-6	Tractor	65.55	9	0
-7	Truck	56.73	523	597
+0		Auto		71.54			132	92
+1		Bus		77.69			208	89
+2		Car		88.54			2116	811
+3		Lcv		33.78			130	384
+4		Motorcycle	73.48			1220	764
+5		Multiaxle	45.56			107	102
+6		Tractor		65.55			9	0
+7		Truck		56.73			523	597
 
 
  for conf_thresh = 0.25, precision = 0.61, recall = 0.84, F1-score = 0.71 
